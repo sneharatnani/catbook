@@ -1,9 +1,9 @@
-# A simple website based on cat theme :
+# CatBook
 
 My first responsive website is based on cat theme.
 
-## Technologies Used :
----
+## Technologies Used
+
 - HTML
 
 - CSS
