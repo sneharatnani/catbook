@@ -169,11 +169,11 @@ a {
      text-align: center;
  }
 
- .footer-list li {
+ .footer-list li a {
     color: black;
  }
 
- .footer-list li:hover {
+ .footer-list li a:hover {
      color: white;
  }
 
@@ -363,7 +363,7 @@ span {
     }
 
     /* mobile footer-- */
-    .footer-list li {
+    .footer-list li a {
         padding-right: 30px;
     }
 
